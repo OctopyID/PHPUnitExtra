@@ -1,0 +1,36 @@
+{
+    "name": "octopyid/phpunit-extra",
+    "description": "Extra assertions for PHPUnit",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Supian M",
+            "email": "supianidz@octopy.id"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^7.5",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Octopy\\PHPUnitExtra\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Octopy\\PHPUnitExtra\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

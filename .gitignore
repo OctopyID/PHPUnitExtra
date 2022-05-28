@@ -1,0 +1,10 @@
+# Code Editor
+.idea
+
+# PROJECT
+/vendor/
+composer.lock
+
+# PHPUnit
+.phpunit.cache
+.phpunit.result.cache

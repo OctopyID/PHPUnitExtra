@@ -1,8 +1,7 @@
 <p align="center">
-    <img src="https://img.shields.io/github/workflow/status/OctopyID/phpunit-extra/Run%20Unit%20Testing?style=for-the-badge&label=tests" alt="Tests">
     <img src="https://img.shields.io/packagist/v/octopyid/phpunit-extra.svg?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/packagist/dt/octopyid/phpunit-extra.svg?style=for-the-badge&color=F28D1A" alt="Downloads">
-    <img src="https://img.shields.io/github/license/OctopyID/phpunit-extra?style=for-the-badge&color=5D9BB6" alt="License">
+    <img src="https://img.shields.io/packagist/l/octopyid/phpunit-extra?style=for-the-badge" alt="License">
 </p>
 
 # PHP Unit Extra
